@@ -20,4 +20,5 @@
 ---
 include:
   - board: nice_nano_v2
+    snippet: studio-rpc-usb-uart
     shield: boardsource3x4
